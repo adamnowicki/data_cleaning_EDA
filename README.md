@@ -3,7 +3,9 @@
 
 ### Introduction
 
-Welcome to the Group 4 Shark Project! This project analyzes shark attacks data.
+This project analyzes shark attacks data.
+
+Authors: @Adam Nowicki, @Adriana Brazon @Gloria Lagrand @Smita Prakas
 
 ### Data and Files
 
